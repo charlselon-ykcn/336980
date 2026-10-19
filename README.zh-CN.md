@@ -4,7 +4,7 @@
 
 用现代图文版式、文字强调和信息拆解配合口播，适合观点、证据与步骤讲解。
 
-**16:9 · 1920 × 1080 · 60 fps · v2.7.5** · [@adunext](https://motiongit.com/@adunext) · [English](README.md)
+**16:9 · 1920 × 1080 · 60 fps · v2.7.6** · [@adunext](https://motiongit.com/@adunext) · [English](README.md)
 
 **[模板详情、完整 .motion 与 Demo](https://motiongit.com/@adunext/template-01-integrated)**
 https://motiongit.com/@adunext/template-01-integrated
@@ -30,7 +30,7 @@ https://motiongit.com/@adunext/template-01-integrated
 
 ## 输入素材与内容
 
-- **必需:** 原生口播流程使用的本期人物视频与原声。
+- **可选:** 原生口播流程使用的本期人物视频与原声。
 - **必需:** 与本期口播匹配的文稿或 SRT 字幕。
 - **可选:** 对话中已有的主题、关键要点与输出偏好，由助手整理为方案。
 

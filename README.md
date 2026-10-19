@@ -4,7 +4,7 @@
 
 Support narration with modern editorial layouts, text emphasis and information breakdowns.
 
-**16:9 · 1920 × 1080 · 60 fps · v2.7.3** · [@adunext](https://motiongit.com/@adunext) · [简体中文](README.zh-CN.md)
+**16:9 · 1920 × 1080 · 60 fps · v2.7.4** · [@adunext](https://motiongit.com/@adunext) · [简体中文](README.zh-CN.md)
 
 **[Template details, full .motion & demo](https://motiongit.com/@adunext/template-01-integrated)**
 https://motiongit.com/@adunext/template-01-integrated

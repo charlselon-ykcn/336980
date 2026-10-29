@@ -4,7 +4,7 @@
 
 用现代图文版式、文字强调和信息拆解配合口播，适合观点、证据与步骤讲解。
 
-**16:9 · 1920 × 1080 · 60 fps · v2.7.18-alpha.3** · [@adunext](https://motiongit.com/@adunext) · [English](README.md)
+**16:9 · 1920 × 1080 · 60 fps · v2.7.18-alpha.4** · [@adunext](https://motiongit.com/@adunext) · [English](README.md)
 
 **[模板详情、完整 .motion 与 Demo](https://motiongit.com/@adunext/template-01-integrated)**
 https://motiongit.com/@adunext/template-01-integrated

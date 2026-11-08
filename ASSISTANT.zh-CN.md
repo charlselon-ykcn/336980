@@ -3,7 +3,7 @@
 用现代图文版式、文字强调和信息拆解配合口播，适合观点、证据与步骤讲解。
 
 模板与完整下载: https://motiongit.com/@adunext/template-01-integrated
-版本: 2.7.18-alpha.9
+版本: 2.7.18-alpha.10
 Demo 已公开，模板下载即将开放。
 
 ## 技术资料

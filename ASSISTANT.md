@@ -3,7 +3,7 @@
 Support narration with modern editorial layouts, text emphasis and information breakdowns.
 
 Template & full download: https://motiongit.com/@adunext/template-01-integrated
-Version: 2.7.18-alpha.12
+Version: 2.7.18-alpha.13
 Demo available; template download coming soon.
 
 ## Technical reference
